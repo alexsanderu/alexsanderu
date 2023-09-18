@@ -24,4 +24,4 @@ Tenho 22 anos e sou brasileiro. Estou em busca do meu primeiro estágio na área
 
 ### 📊 Github stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/827c450d3671f23d632a9d47be58f8cc.gif" width="200" height="200" border="0" alt="alexGif" /></a><br />
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/827c450d3671f23d632a9d47be58f8cc.gif" width="140" height="140" border="0" alt="alexGif" /></a><br />
