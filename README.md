@@ -22,6 +22,7 @@ Tenho 22 anos e sou brasileiro. Estou em busca do meu primeiro estágio na área
 <a href="https://www.linkedin.com/in/alexsanderu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="right">
 ### 📊 Github stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
