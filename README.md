@@ -1,8 +1,5 @@
 # Oi, eu sou o Alex! 🍃
 
-### 👨🏼‍💼 Sobre mim:
-Tenho 22 anos e sou brasileiro. Estou em busca do meu primeiro estágio na área!
-
 ### 📚 Estudando:
 • Angular; <br>
 • React;
