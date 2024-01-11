@@ -2,8 +2,8 @@
 
 ### 📚 studying:
 <div style="display: inline_block">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">
 </div>
 
 ### 💡 technologies:
