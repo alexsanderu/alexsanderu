@@ -1,4 +1,5 @@
 # Hi, i'm Alex! 🍃
+I am an undergraduate student in Systems Analysis and Development, dedicating myself to the study of programming for 1 year and 1 month. My specialization focuses on front-end development, although I also possess strong knowledge of backend concepts. I am a professional committed to the constant improvement of my skills, eager for an opportunity that allows me to apply my abilities in a professional and innovative manner.
 
 ### 📚 studying:
 <div style="display: inline_block">
