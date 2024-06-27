@@ -1,5 +1,5 @@
 # Oi, eu sou o Alex! 🍃
-Sou estudante de graduação em Análise e Desenvolvimento de Sistemas, dedicando-me ao estudo de programação há 1 ano e 1 mês. Minha especialização é focada em desenvolvimento front-end, embora também possua um forte conhecimento de conceitos de backend. Sou um profissional comprometido com a constante melhoria de minhas habilidades, ansioso por uma oportunidade que me permita aplicar minhas capacidades de forma profissional e inovadora.
+Sou estudante de graduação em Análise e Desenvolvimento de Sistemas, dedicando-me ao estudo de programação há 2 anos e 1 mês. Minha especialização é focada em desenvolvimento front-end, embora também possua um forte conhecimento de conceitos de backend. Sou um profissional comprometido com a constante melhoria de minhas habilidades, ansioso por uma oportunidade que me permita aplicar minhas capacidades de forma profissional e inovadora.
 
 ### 📚 studying:
 <div style="display: inline_block">
